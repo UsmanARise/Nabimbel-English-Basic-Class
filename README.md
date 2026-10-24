@@ -1,5 +1,4 @@
 # Nabimbel-English-Basic-Class
-<!DOCTYPE html>
 <html lang="id">
 <head>
 <meta charset="UTF-8">
